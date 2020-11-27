@@ -16,7 +16,9 @@ Papper covers Rock   Scissors cuts Paper   Rock smashes Scissors
 
 Choose your weapon wisely!
 
-Built with Python 3 https://www.python.org/
+The computer chooses first; just follow the prompts. 
+
+Built with Python 3 https://wiki.python.org/moin/BeginnersGuide
 
 Enjoy!
 

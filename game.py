@@ -61,6 +61,7 @@ while gameVars.player == False:
 			gameVars.ai_lives -= 1
 
 # /------------------STOP HERE - ALL OF THE ABOVE NEEDS TO MOVE ---------------/
+
 	if gameVars.player_lives == 0:
 		chooseWinner.winlorlose("lost")
 
