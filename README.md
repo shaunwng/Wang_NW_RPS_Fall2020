@@ -4,7 +4,7 @@ Pick your waepon and play against the computer -  you'll only get a cirtual stin
 
 ## Prerequisites
 
-All you need is Python 3 to play. 
+All you need is [Python 3](https://www.python.org/) to play. 
 
 ## Usage
 Clone the project, <code>cd</code> to your directory/ download, and run the game. py file in a Python3 Shell.(Terminal on a mac/ Linux, Windows command prompt) 
@@ -18,7 +18,7 @@ Choose your weapon wisely!
 
 The computer chooses first; just follow the prompts. 
 
-Built with Python 3 https://wiki.python.org/moin/BeginnersGuide
+Built with [Python 3](https://wiki.python.org/moin/BeginnersGuide)
 
 Enjoy!
 
