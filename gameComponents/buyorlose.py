@@ -23,7 +23,6 @@ def buyorlose (status):
 			gameVars.ai_lives = 3
 			gameVars.player = False
 
-
 	if status == "win":
 		print("You", status, "! Would you like to play again?")
 		choice = input("Y / N? ")
@@ -36,4 +35,5 @@ def buyorlose (status):
 			gameVars.player_lives = 3
 			gameVars.ai_lives = 3
 			gameVars.player = False
+
 			
