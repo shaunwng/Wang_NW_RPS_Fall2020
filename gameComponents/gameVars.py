@@ -10,5 +10,3 @@ total_lives = 3
 
 #True and False are Boolean data types -> they are the euuivalent of on or off, 1 and 0
 player = False
-
-
