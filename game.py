@@ -87,8 +87,7 @@ while gameVars.player == False:
 			gold_coins +=100
 			print("Your Balance up to:" , str(gold_coins))
 
-		
-
+		 
 
 #/-------------------------MOVE THIS CHUNK OF CODE TO A PACKAGE - START HERE-------------------/
 	# if (computer == gameVars.player): 
