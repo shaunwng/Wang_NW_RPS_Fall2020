@@ -36,3 +36,4 @@ def buyorlose (status):
 			gameVars.player_lives = 3
 			gameVars.ai_lives = 3
 			gameVars.player = False
+			
