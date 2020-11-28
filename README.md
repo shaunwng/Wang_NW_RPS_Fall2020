@@ -18,6 +18,14 @@ Choose your weapon wisely!
 
 The computer chooses first; just follow the prompts. 
 
+## New Comparison Function added: (gold coins)
+Player will be given 200$ coins bouns as start.
+If player win in a round , the balance will increase 100$. 
+If player lose, then as usual, lose one life. 
+If player lose all lives and status is “lost”, that's not the end. Player will given the right to use coins to buy a "restart" chance. But the balance will reset to 200$. 
+
+
+
 Built with [Python 3](https://wiki.python.org/moin/BeginnersGuide)
 
 Enjoy!
